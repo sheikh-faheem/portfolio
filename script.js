@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 description: "A Canteen Management System designed to modernize and streamline the operations of a cafeteria or canteen. This application facilitates efficient food ordering, billing, and inventory management, reducing wait times and improving the overall customer experience. It provides a user-friendly interface for both customers and canteen staff, enabling easy menu navigation, order placement, and payment processing. Key features include user authentication for staff, real-time order tracking, and sales reporting to help manage the canteen more effectively.", 
                 media: { type: 'image', src: 'cant.png' }, 
                 github: "https://github.com/sheikh-faheem/Canteen_Management-?tab=readme-ov-file#%EF%B8%8F-canteen-management-system",
-                demo: "https://canteensystem.infinityfree.me/", // This will have a demo button
+                demo: "https://canteenmanament.kesug.com/", // This will have a demo button
                 tech: ["HTML/CSS", "JAVASCRIPT", "MySQL"]
             },
             { 
@@ -334,3 +334,4 @@ document.addEventListener('DOMContentLoaded', function () {
     }, { threshold: 0.1 });
     document.querySelectorAll('.animate-on-scroll').forEach(el => observer.observe(el));
 });
+
