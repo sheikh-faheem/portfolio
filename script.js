@@ -60,7 +60,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 description: "A comprehensive and intuitive Patient Management System designed to streamline the administrative and clinical workflows of healthcare facilities. This application provides a centralized platform for managing patient information, appointments, medical records, and billing. With a user-friendly interface, it aims to improve efficiency, reduce paperwork, and enhance the quality of patient care. Key features include secure user authentication, role-based access for administrators and staff, and a complete history of patient interactions.", 
                 media: { type: 'image', src: 'pat.png' }, 
                 github: "https://github.com/sheikh-faheem/Patient-Management-System?tab=readme-ov-file#-medical-management-dashboard",
-                demo: "https://pmsfaheem.kesug.com/index.php", // This will have a demo button
+                demo: "https://patientmanagement.iblogger.org/", // This will have a demo button
                 tech: ["HTML/CSS", "React", "MySQL","Javascript"]
             },
             { 
