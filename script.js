@@ -88,7 +88,15 @@ document.addEventListener('DOMContentLoaded', function () {
                 github: "https://github.com/sheikh-faheem/Spam-Detector-?tab=readme-ov-file#-spam-message-detector",
                 demo: "https://sheikh-faheem-spam-detector--app-au5ulr.streamlit.app/", // This will have a demo button
                 tech: ["Python", "Streamlit", "Scikit-Learn"] 
-            }
+            },
+             {
+    title: "RAG Document Assistant",
+    description: "An AI-powered document question-answering assistant built with Python, LangChain, ChromaDB, Hugging Face embeddings, Gemini, and Streamlit. It allows users to upload PDF documents, processes and stores their content as vector embeddings, and uses Retrieval-Augmented Generation (RAG) to retrieve relevant information and generate accurate answers based on the uploaded documents.",
+    media: { type: 'image', src: 'rag.png' },
+    github: "YOUR_GITHUB_LINK",
+    demo: "https://rag-document-assistant-rrybpokwqpt8fxjr7w7evk.streamlit.app/",
+    tech: ["Python", "LangChain", "ChromaDB", "Gemini", "Hugging Face", "Streamlit"]
+}
             
         ],
         flutter: [
