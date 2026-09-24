@@ -93,7 +93,7 @@ document.addEventListener('DOMContentLoaded', function () {
     title: "RAG Document Assistant",
     description: "An AI-powered document question-answering assistant built with Python, LangChain, ChromaDB, Hugging Face embeddings, Gemini, and Streamlit. It allows users to upload PDF documents, processes and stores their content as vector embeddings, and uses Retrieval-Augmented Generation (RAG) to retrieve relevant information and generate accurate answers based on the uploaded documents.",
     media: { type: 'image', src: 'rag.png' },
-    github: "YOUR_GITHUB_LINK",
+    github: "https://github.com/sheikh-faheem/rag-document-assistant",
     demo: "https://rag-document-assistant-rrybpokwqpt8fxjr7w7evk.streamlit.app/",
     tech: ["Python", "LangChain", "ChromaDB", "Gemini", "Hugging Face", "Streamlit"]
 }
